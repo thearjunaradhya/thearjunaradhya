@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mallikarjunaradhya</h1>
 <h3 align="center">Self Motivated, Passionate, and Result Oriented Agile Minded Team Player with 4.1 Years of richly diverse experience in Software Web UI Automation Testing using Open source Java Selenium WebDriver in India & Germany & I have Re-skilled, Up-Skilled to match current industry standards. I possess good business communication skills, good team spirit & can organize the work in complex situations clearly, accurately and communicate effectively with people from diverse backgrounds.</h3>
 
-- 🔭 I’m currently working on **SDET**
+- 🔭 I’m currently working on **Infinite Loop**
 
 - 🌱 I’m currently learning **Appium, REST API**
 
